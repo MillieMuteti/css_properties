@@ -7,6 +7,12 @@ body{
     margin: auto;
     line-height: 24px;
 }
+h1{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 900;
+    margin: 30px;
+}
 .section-1{
     color: green;
     font-size: 14px;
@@ -24,4 +30,14 @@ body{
     margin: 10px 30px 20px 30px ;
     font-size: 14px;
     font-weight: 500;
+}
+.section-3 {
+    color: blue;
+    border: 2px groove darkmagenta;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin: 10px 50px 10px 20px;
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 700;
 }
