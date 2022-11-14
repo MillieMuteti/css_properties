@@ -16,3 +16,12 @@ body{
     margin: 60px 40px 20px 20px;
     font-weight: 600;
 }
+.section-2 {
+    color: red;
+    border: 2px solid honeydew;
+    border-radius: 2px;
+    padding: 3px 3px;
+    margin: 10px 30px 20px 30px ;
+    font-size: 14px;
+    font-weight: 500;
+}
